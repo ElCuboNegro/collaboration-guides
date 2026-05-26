@@ -91,7 +91,7 @@ El hecho de que la IA esté disponible 24/7 no significa que tú debas estarlo.
 ## Discusiones y desacuerdos
 
 - Si el desacuerdo es sobre un hecho verificable, busca juntos la fuente — o pídanle a una IA que cite su razonamiento para poder auditarlo.
-- Si el desacuerdo es sobre una decisión de diseño o estrategia, abre un issue o un ADR con los argumentos escritos. Escribir fuerza claridad.
+- Si el desacuerdo es sobre una decisión de diseño o estrategia, abre un RFC con los argumentos escritos. Escribir fuerza claridad.
 - Si hay tensión emocional, sal del canal escrito. Un mensaje de texto nunca transmite el tono que imaginas. Una llamada de diez minutos resuelve lo que veinte mensajes empeoran.
 - Nunca uses lenguaje pasivo-agresivo. "Como ya dijimos…" no ayuda a nadie.
 
