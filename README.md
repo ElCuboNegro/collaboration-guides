@@ -30,6 +30,36 @@ La IA no reemplaza el juicio humano; reduce el ruido para que cuando preguntes a
 
 ---
 
+## Etiquetas y jerga de mensajes
+
+Para que quien recibe un mensaje pueda calibrar su urgencia desde la notificación, usamos etiquetas como prefijo en el asunto de un hilo de Teams o al inicio de un mensaje de WhatsApp.
+
+| Etiqueta | Significado |
+|---|---|
+| `[ack]` | Requiere acuse de recibo en las próximas 12 horas |
+| `[broadcast]` | Información general, no requiere respuesta |
+| `[action-needed]` | Debes hacer algo además de leer esto |
+| `[response-needed]` | Debes responder con algo más que un ack |
+| `[ack-24]` | Requiere acuse en 24 horas |
+| `[ack-48]` | Requiere acuse en 48 horas |
+| `[ack-72]` | Requiere acuse en 72 horas |
+
+### Ack
+
+*Ack* (del inglés *acknowledge*) es la forma mínima de cerrar el loop de comunicación. Responder "ack" significa "recibido, entendido, no necesito más información por ahora". Viene de los protocolos de red: un paquete se confirma con ACK antes de continuar.
+
+- En el grupo de WhatsApp: un "ack" o un 👍 son equivalentes.
+- En Teams: reaccionar con ✅ o responder "ack" al hilo.
+- No uses reply-all innecesariamente — si el ack es solo para quien lo envió, responde en privado.
+
+### Otras convenciones
+
+- **No uses pronombres inespecíficos** cuando necesitas que alguien actúe. "Alguien", "quien pueda", "el equipo" — nadie lo toma. Asigna la tarea a una persona concreta o hazla tú.
+- **No abuses de @todos, @canal o menciones masivas.** Cuando se usan para todo, se ignoran para todo.
+- **Si tu mensaje ocupa más de dos párrafos**, agrega un TL;DR al inicio.
+
+---
+
 ## Etiqueta con herramientas de IA
 
 ### Antes de enviar algo generado por IA
