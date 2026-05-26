@@ -20,12 +20,11 @@ El tiempo de tus compañeros sigue siendo el recurso más escaso. Antes de busca
 
 | Canal | Cuándo usarlo | Tiempo esperado de respuesta |
 |---|---|---|
-| Herramienta de IA | Siempre que sea el primer intento | Inmediato |
-| Issue / ticket | Decisiones, bugs, solicitudes con contexto trazable | 24 h |
-| Canal público (Teams/Slack) | Preguntas cuya respuesta beneficia a más de una persona | 4–12 h |
-| Email | Cuando hay personas fuera del equipo involucradas | 12 h |
-| Mensaje directo | Cuando es personal o moderadamente urgente | 2–4 h |
-| SMS / llamada | Únicamente si algo está caído o bloqueado en este momento | Inmediato |
+| Herramienta de IA | Siempre como primer intento | Inmediato |
+| Microsoft Teams | Decisiones, solicitudes y conversaciones que requieren trazabilidad o historial auditable | 24 h |
+| Grupo de WhatsApp | Avisos no urgentes, ACKs generales, información de baja prioridad para todo el equipo | 4–12 h |
+| Mensaje directo (WhatsApp o Teams) | Asuntos personales o moderadamente urgentes | 2–4 h |
+| Llamada | Únicamente si algo está caído o bloqueado en este momento | Inmediato |
 
 La IA no reemplaza el juicio humano; reduce el ruido para que cuando preguntes a una persona, la pregunta valga la pena.
 
